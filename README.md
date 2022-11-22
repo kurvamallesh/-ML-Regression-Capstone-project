@@ -33,7 +33,7 @@ Bike Sharing Demand Prediction
 
 * Creating New feature **Week day** and **weekend**. And droping the days of week column from data and from categorical feature.
 
-* Convert Hour column in three part Night, Noon, Evening, Morning For better predictation.
+* Convert Hour column in three part Night, Noon, Evening, Morning For better predictation
 
 * Using correlation plot we find **"Dew point temperature(°C)"** variable is higlly correlated.
 
