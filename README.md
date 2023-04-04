@@ -52,4 +52,4 @@ Bike Sharing Demand Prediction
 
 * Then we use Tree Base Models because we know because **multicollinearty not** effect **tree base models**.So use we Random **Forest Regressor** and **Decision Tree**.
 
-* Then we decide to use some boosting regression for better predictions. So we use **Gradient Boosting Regressor**, **Adaboost Boost Regressor**, **XGBoost Regression**. We got our best **rmse** score with Linear,	Lasso,	Ridge,	Polynomial. We got our best **Training_score** with Random_Forest. We got our best R2, Adjusted_R2 with Decision_Tree,	Random_Forest,	Bagging.
+* Then we decide to use some boosting regression for better predictions. So we use **Gradient Boosting Regressor**, **Adaboost Boost Regressor**, **XGBoost Regression**. We got our best **rmse** score with Linear,	Lasso,	Ridge,	Polynomial. We got our best **Training_score** with Random_Forest. We got our best R2, Adjusted_R2 with Decision_Tree,	Random_Forest,	Bagging.d
